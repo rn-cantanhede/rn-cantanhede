@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/rn-cantanhede" target="_blank">
+  <a href="https://www.linkedin.com/in/rn-cantanhede" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="36" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/rn.cantanhede/" target="_blank">
