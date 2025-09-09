@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm from Maranhão, Brazil.<br><br>- 🔭 I’m a Computer Science student and IT Technician (IFMA)<br>- 📚 I'm currently learning Vue.js<br>- ⚡ In my free time, I code and play games</p>
+<p align="left">I'm from Maranhão, Brazil.<br><br>- 🔭 I’m a Computer Science student and IT Technician (IFMA)<br>- 📚 I'm currently learning React.js<br>- ⚡ In my free time, I code and play games</p>
 
 ###
 
